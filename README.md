@@ -1,4 +1,6 @@
-# Week 10: Survey form with React
+# Week 10: Project Story Factory
+
+Weekly project for Technigo's bootcamp, week 10: build a survey-like website
 
 This week's project was to practice React state hook and controlled forms by making a survey type product, including at least three questions and a summary displayed only when the form is submitted.
 
