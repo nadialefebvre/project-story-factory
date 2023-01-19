@@ -15,3 +15,7 @@ All in all, I am very proud of what I was able to do with this second project us
 ## View it live
 
 Project deployed here: [Story Factory](https://story-factory.netlify.app/)
+
+<div align="center">
+  <img src="screenshot.jpg" />
+</div>
