@@ -1,4 +1,4 @@
-# Week 10: Project Story Factory
+# Project Story Factory
 
 Weekly project for Technigo's bootcamp, week 10: build a survey-like website
 
