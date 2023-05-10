@@ -1,10 +1,17 @@
 # Project Story Factory
 
-Weekly project for Technigo's bootcamp, week 10: build a survey-like website
+Weekly project for Technigo's bootcamp, week 10: build a survey-like website (March 2022)
 
-This week's project was to practice React state hook and controlled forms by making a survey type product, including at least three questions and a summary displayed only when the form is submitted.
+## Tech stack
+
+- JavaScript
+- React
+- HTML
+- CSS
 
 ## The problem
+
+This week's project was to practice React state hook and controlled forms by making a survey type product, including at least three questions and a summary displayed only when the form is submitted.
 
 I started by creating a basic structure with a landing page where a "next" button sends the user from one question to another. I then created a component for each type of input (radio buttons, text, etc.). When I was able to link everything together and had a working form displaying a summary at the end, I duplicated these components into all the questions for my concept idea. I created a RandomChoices component where an choice is calculated (with Math.random) for each non-answered question. The Summary component renders a short story using the choices made in the form, either the user's choices or ramdom choices.
 
